@@ -1,0 +1,257 @@
+@import "../less/bootstrap.less";
+@import "../less/bootstrap-responsive.less";
+
+@font-face {
+    font-family: 'HelveticaNeue-Light';
+    src: url('/css/font/helveticaneue-light-webfont.eot');
+    src: url('/css/font/helveticaneue-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/font/helveticaneue-light-webfont.woff') format('woff'),
+         url('/css/font/helveticaneue-light-webfont.ttf') format('truetype'),
+         url('/css/font/helveticaneue-light-webfont.svg#HelveticaNeue-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@base-url: "http://noviumdesign.se";
+@base-size: 18px;
+@line-height: 23px;
+@basefont: "HelveticaNeue-Light", 'Helvetica Neue Light','Helvetica Neue',Helvetica, Arial, sans-serif;
+@headerfont: "HelveticaNeue", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+@textcolor: #000000;
+@linkcolor: #000000;
+@bordercolor: #000000;
+
+body {
+	-webkit-font-smoothing: antialiased;
+	color: @textcolor;
+	font-size: @base-size;
+	font-family: @basefont;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-weight: normal;
+	line-height: @line-height;
+}
+
+h1 {
+	font-family: @headerfont;
+	font-size: 38px;
+	line-height: 50px;
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	border-bottom: 1px solid @bordercolor;
+	padding-bottom: 1px;
+
+}
+
+h2 {
+	font-family: @basefont;
+	font-size: 24px;
+	line-height: 32px;
+	font-weight: normal;
+}
+
+h3 {
+	font-family: @basefont;
+	font-size: 20px;
+	line-height: 20px;
+	margin-top: 0px;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: @basefont;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: normal;
+}
+
+h5 {
+	line-height: @line-height; 
+	font-size: @base-size;
+	font-weight: normal;
+	margin: 0 0 10px 0;
+}
+
+a {
+	color: @linkcolor;
+}
+
+a:hover {
+	color: #7E7E7E;
+	text-decoration: none;
+}
+
+li {
+	line-height: @line-height;
+}
+
+header {
+	margin-bottom: 20px;
+
+	img {
+		width: 170px;
+	}
+
+	.ingres {
+		margin-top: 80px;
+	}
+
+	nav {
+		li {
+			float: left;
+			padding: 0 35px 0 0;
+			font-size: 22px;
+
+			a {
+				color: @linkcolor; 
+			}
+		}
+	}
+}
+
+.nav > li > a:hover {
+	background-color: #FFFFFF;
+}
+
+.home {
+
+	.portfolio .row > div {
+		margin-bottom: 30px;
+	}
+
+	.padded {
+		padding: 20px;
+	}
+
+	.lundberg {
+		background-color: #bbbbbb;
+	}
+	.interapp {
+		background-color: #2DAB66;
+	}
+
+	.presentation {
+
+	}
+
+	.kimbiacamp {
+
+	}
+}
+
+.contact-page {
+
+	.employers {
+		word-wrap: break-word;
+		margin-bottom: 40px;
+
+		.span4 {
+			width: 460px;
+		}
+
+		.span2 {
+			width: 220px;
+		}
+
+		a {
+		text-decoration: underline;
+		}
+
+	}
+
+
+	.employee {
+		margin-bottom: 15px;
+
+		span{
+			display: block;
+		}
+
+		span[itemprop^="employee"] {
+			font-weight: normal;
+		}
+	}
+}
+
+.portfolio-page {
+	.works{
+
+		.row {
+			margin-bottom: 20px;
+			color: #FFFFFF;
+		}
+
+		.span9 {
+			width: 680px;
+			margin-left: 0px;
+		}
+
+		.span3 {
+			background-color: #1D1D1B;
+			width: 260px;
+			height: 246px;
+
+			> div {
+				padding: 20px;
+			}
+
+			.upper {
+				height: 184px;
+			}
+
+			h5 {
+				border-bottom: 1px solid #FFFFFF;
+				padding-bottom: 10px;
+			}
+
+			a {
+				font-size: 44px;
+				line-height: 13px;
+				color: #FFFFFF;
+			}
+		}
+	}
+}
+
+.casestudy-page {
+	.case {
+		img {
+			margin-bottom: 30px;
+		}
+
+		section {
+			margin-bottom: 30px;
+		}
+	}
+}
+
+footer {
+	margin-top: 20px;
+
+	span{
+		display: block;
+	}
+
+	> div {
+		border-top: 1px solid #000;
+		padding-top: 10px;
+	}
+
+
+	p {
+		margin-top: 10px;
+	}
+
+	.copy {
+		width: 100%;
+		margin-top: 10px;
+	}
+
+	.social {
+		margin-left: 35px;
+	}
+}
+
+@import "../less/responsive-classes.less";
