@@ -33,7 +33,7 @@
 			<div class="case">
 				<div class="row">
 					<div class="span12">
-						<img src="img/master.png" alt="Interapp logo">
+						<img src="img/master.png" alt="Interapp logo" class="logo">
 					</div>
 				</div>
 				<div class="row">
@@ -59,12 +59,14 @@
 							</div>
 							<div class="span8">
 								<img src="img/concept.png" alt="Interapps koncept">
+								<p class="imgtext">En flödande karaktär som symboliserar moderna applikationer.</p>
 							</div>
 							<div class="span8">
 								<img src="img/flowing-characters.png" alt="Interapps flöde i typografin">
 							</div>
 							<div class="span8">
 								<img src="img/finetuning.png" alt="Interapps renaodlade bokstäver">
+								<p class="imgtext">Bokstävers olika former har renodlats för ett samlat intryck.</p>
 							</div>
 						</div>
 

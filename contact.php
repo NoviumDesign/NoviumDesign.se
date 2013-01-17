@@ -94,20 +94,6 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/hanna.png">
-							</div>
-							<div class="span2">
-								<p>
-									<span itemprop="employee"><a href="mailto:hanna@noviumdesign.se">Hanna Schallinger</a></span>
-									<span itemprop="jobTitle">Copywriter</span>
-									<span itemprop="telephone">070-973 25 05</span>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="span4">
-						<div class="row employee" itemscope itemtype="http://schema.org/Person">
-							<div class="span2 hidden-phone">
 								<img src="img/team/alexander.png">
 							</div>
 							<div class="span2">

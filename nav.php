@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="span6 logo">
-				<a href="/"><img src="/img/logo.png"></a>
+				<a href="/"><img src="/img/logo.png" alt="Novium Designbyrå"></a>
 			</div>
 			<div class="span6 navigation">
 				<nav class="clearfix">

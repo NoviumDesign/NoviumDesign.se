@@ -33,7 +33,7 @@
 			<div class="case">
 				<div class="row">
 					<div class="span12">
-						<img src="img/master.png" alt="Resville logotype">
+						<img src="img/master.png" alt="Resville logotype" class="logo">
 					</div>
 				</div>
 				<div class="row">

@@ -33,7 +33,7 @@
 			<div class="case">
 				<div class="row">
 					<div class="span12">
-						<img src="img/master.jpg" alt="Klostermark jumbotron">
+						<img src="img/master.jpg" alt="Klostermark jumbotron" class="logo">
 					</div>
 				</div>
 				<div class="row">

@@ -119,7 +119,7 @@ textarea {
   clear: both;
 }
 .hide-text {
-  font: a;
+  font: 0/0 a;
   color: transparent;
   text-shadow: none;
   background-color: transparent;
@@ -4883,7 +4883,7 @@ a.badge:hover {
   clear: both;
 }
 .hide-text {
-  font: a;
+  font: 0/0 a;
   color: transparent;
   text-shadow: none;
   background-color: transparent;
@@ -6045,11 +6045,15 @@ header nav li a {
   line-height: 13px;
   color: #FFFFFF;
 }
-.casestudy-page .case img {
+.casestudy-page .case .logo {
   margin-bottom: 30px;
+  margin-top: 0;
 }
-.casestudy-page .case section {
-  margin-bottom: 30px;
+.casestudy-page .case img {
+  margin-top: 30px;
+}
+.casestudy-page .case .imgtext {
+  margin-top: 8px;
 }
 footer {
   margin-top: 20px;

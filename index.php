@@ -33,47 +33,47 @@
 			<div class="portfolio">
 				<div class="row">
 					<div class="span12 lundberg">
-						<img src="img/frontgrid/idalundberg.jpg">
+						<img src="img/frontgrid/idalundberg.jpg" alt="Ida Lundberg">
 					</div>
 				</div>
 				<div class="row resville">
 					<div class="span5">
-						<a href="/case/resville"><img src="img/frontgrid/resville/logo.png"></a>
+						<a href="/case/resville"><img src="img/frontgrid/resville/logo.png" alt="Logotype till Resville Mathantverk"></a>
 					</div>
 					<div class="span7">
-						<a href="/case/resville"><img src="img/frontgrid/resville/packagedesign.jpg"></a>
+						<a href="/case/resville"><img src="img/frontgrid/resville/packagedesign.jpg" alt="Förpackningsdesign till Resville Mathantverk"></a>
 					</div>
 				</div>
 				<div class="row">
 					<div class="span8 interapp">
 						<div>
-							<a href="/case/interapp"><img src="img/frontgrid/interapp.png"></a>
+							<a href="/case/interapp"><img src="img/frontgrid/interapp.png" alt="Logotyp till Interapp"></a>
 						</div>
 					</div>
 					<div class="span4">
-						<img src="img/frontgrid/estetic.png">
+						<img src="img/frontgrid/estetic.png" alt="Med teknik och estetik hjälper vi varumärken att synas i mängden och bli valda.">
 					</div>
 				</div>
 				<div class="row">
 					<div class="span4">
-						<img src="img/frontgrid/design-as-tool.png">
+						<img src="img/frontgrid/design-as-tool.png" alt="Vi skapar engagemang med design som verktyg">
 					</div>
 					<div class="span8 kimbiacamp">
-						<img src="img/frontgrid/kimbiacamp.jpg">
+						<img src="img/frontgrid/kimbiacamp.jpg" alt="Färgtema till KimbiaCamp">
 					</div>
 				</div>
 				<div class="row">
 					<div class="span7">
-						<img src="img/frontgrid/process.png">
+						<img src="img/frontgrid/process.png" alt="Vår arbetsprocess">
 					</div>
 					<div class="span5 klostermark">
 						<div>
-							<a href="/case/klostermark"><img src="img/frontgrid/klostermark.png"></a>
+							<a href="/case/klostermark"><img src="img/frontgrid/klostermark.png" alt="Webbsida till Klostermark"></a>
 						</div>
 					</div>
 				</div>
 			</div>
-
+		</div>	
 		<?php include('footer.html') ?>
 
 	</body>
