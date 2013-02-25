@@ -15,8 +15,17 @@
 				</nav>
 			</div>
 		</div>
-		<div class="row ingres">
-			<div class="offset6 span6">
+		<div class="row leadrow">
+			<div class="span6 visible-desktop">
+				<h2>
+					<ul class="unstyled activities">
+						<li>Branding</li>
+						<li>Förpackningsdesign</li>
+						<li>Webbdesign</li>
+					</ul>
+				</h2>
+			</div>
+			<div class="span6 ingres">
 				<h2>Novium är en designbyrå. Med teknik och estetik hjälper vi varumärken att synas i mängden och bli valda.</h2>
 			</div>
 		</div>

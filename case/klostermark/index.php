@@ -15,9 +15,7 @@
 		<meta name="keywords" content="Designbyrå, Novium Designbyrå, Novium Design, Förpackningsdesign, Logotype, Logotyp, Webbdesign, Klostermark">
 
 		<link rel="stylesheet" href="/css/style.css">
-		<link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
-
-		<?php include('ios.html') ?>
+		<link rel="sitemap" type="application/xml" title="Sitemap" href="http://noviumdesign.se/sitemap.xml">
 
 		<meta property="og:title" content="Novium Designbyrå">
 		<meta property="og:description" content="Webbsida för Klostermark Accounting.">

@@ -17,8 +17,6 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 
-		<?php include('ios.html') ?>
-
 		<meta property="og:title" content="Novium Designbyrå">
 		<meta property="og:description" content="Kontakta oss på Novium Designbyrå.">
 		<meta property="og:url" content="http://noviumdesign.se">
@@ -37,7 +35,7 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/anton.png">
+								<img src="img/team/anton.png" alt="Anton Kjörck Lindén">
 							</div>
 							<div class="span2">
 								<p>
@@ -51,7 +49,7 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/emil.png">
+								<img src="img/team/emil.png" alt="Emil Blomquist">
 							</div>
 							<div class="span2">
 								<p>
@@ -65,7 +63,7 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/hakan.png">
+								<img src="img/team/hakan.png" alt="Håkan Schallinger">
 							</div>
 							<div class="span2">
 								<p>
@@ -80,7 +78,7 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/ida.png">
+								<img src="img/team/ida.png" alt="Ida Gyulai">
 							</div>
 							<div class="span2">
 								<p>
@@ -94,7 +92,7 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/alexander.png">
+								<img src="img/team/alexander.png" alt="Alexander Ekdahl">
 							</div>
 							<div class="span2">
 								<p>

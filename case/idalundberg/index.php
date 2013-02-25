@@ -8,17 +8,17 @@
 		<link rel="dns-prefetch" href="http://ajax.googleapis.com" />
 		<link rel="dns-prefetch" href="http://www.google-analytics.com/ga.js" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Novium Designbyrå - Resville Mathantverk</title>
+		<title>Novium Designbyrå - Ida Lundberg</title>
 
-		<meta name="description" content="Förpackningsdesign samt logotype för Resville Mathantverk.">
+		<meta name="description" content="Webbutveckling för Ida Lundberg.">
 		<meta name="author" content="">
-		<meta name="keywords" content="Designbyrå, Novium Designbyrå, Novium Design, Förpackningsdesign, Logotype, Logotyp, Förpackningsdesign, Resville, Resville Mathantverk">
+		<meta name="keywords" content="Designbyrå, Novium Designbyrå, Novium Design, Webbdesign, Ida Lundberg, Serverdrift, ">
 
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="sitemap" type="application/xml" title="Sitemap" href="http://noviumdesign.se/sitemap.xml">
 
 		<meta property="og:title" content="Novium Designbyrå">
-		<meta property="og:description" content="Förpackningsdesign samt logotype för Resville Mathantverk.">
+		<meta property="og:description" content="Webbdesign för Ida Lundberg.">
 		<meta property="og:url" content="http://noviumdesign.se">
 
 		<!--[if lt IE 9]>
@@ -31,15 +31,15 @@
 			<div class="case">
 				<div class="row">
 					<div class="span12">
-						<img src="img/master.png" alt="Resville logotype" class="logo">
+						<img src="img/master.png" alt="Interapp logo" class="logo">
 					</div>
 				</div>
 				<div class="row">
 					<div class="span4 desc">
-						<h1>Resville</h1>
+						<h1>Interapp</h1>
 						<ul class="unstyled">
-							<li>Branding</li>
-							<li>Förpackningsdesign</li>
+							<li>Webbdesign</li>
+							<li>Serverdrift</li>
 						</ul>
 					</div>
 					<div class="span8">
@@ -47,21 +47,20 @@
 							<div class="span8">
 								<section>
 									<p>
-										Resville Mathantverk är ett småskaligt mathantverksföretag med inriktning på att förädla traktens frukter, bär och grönsaker. Med klassiska metoder och genuint hantverk produceras utsökta sylter och marmelader.  
-									</p>
-									<p>
-										När vi fick i uppdrag att formge Resville Mathanverk ville vi skapa en identitet som speglade företaget hela vägen från produktion till slutkonsument. Med en klassisk formgivning av logotype och förpackning lyfter vi fram det genuina och äkta i produktionen. 
+										Ida Lundberg är ett italienskt high fashion brand och till lika namnet på designern. Vi hjälpte Ida att se över sin webbsida.
 									</p>
 								</section>
 							</div>
 							<div class="span8">
-								<img src="img/package-1.jpg" alt="Förpackningsdesign">
+								<img src="img/concept.png" alt="Interapps koncept">
+								<p class="imgtext">En flödande karaktär som symboliserar moderna applikationer.</p>
 							</div>
 							<div class="span8">
-								<img src="img/logo-design.png" alt="Skapandet av Resvilles logotype">
+								<img src="img/flowing-characters.png" alt="Interapps flöde i typografin">
 							</div>
 							<div class="span8">
-								<img src="img/package-2.jpg" alt="Förpackningsdesign">
+								<img src="img/finetuning.png" alt="Interapps renaodlade bokstäver">
+								<p class="imgtext">Bokstävers olika former har renodlats för ett samlat intryck.</p>
 							</div>
 						</div>
 

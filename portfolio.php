@@ -10,14 +10,12 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Novium Designbyrå - Portfolio</title>
 
-		<meta name="description" content="Se projekt vi arbetat med.">
+		<meta name="description" content="Se projekt vi har arbetat med.">
 		<meta name="author" content="">
 		<meta name="keywords" content="Designbyrå, Novium Designbyrå, Novium Design, Förpackningsdesign, Logotype, Logotyp">
 
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
-
-		<?php include('ios.html') ?>
 
 		<meta property="og:title" content="Novium Designbyrå">
 		<meta property="og:description" content="Se projekt vi arbetat med.">

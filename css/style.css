@@ -5969,8 +5969,12 @@ header {
 header img {
   width: 170px;
 }
-header .ingres {
+header .leadrow {
   margin-top: 80px;
+}
+header .activities li {
+  line-height: 32px;
+  color: #A6A6A6;
 }
 header nav li {
   float: left;
@@ -6081,9 +6085,9 @@ footer .social {
     width: 460px;
     margin-left: 140px;
   }
-  header .ingres > div {
+  header .ingres {
     width: 460px;
-    margin-left: 740px;
+    margin-left: 140px;
   }
   .contact-page .employers .span4 {
     width: 370px;
@@ -6115,7 +6119,7 @@ footer .social {
   header .navigation {
     width: 460px;
   }
-  header .ingres > div {
+  header .ingres {
     width: 476px;
     margin-left: 268px;
   }
@@ -6145,7 +6149,7 @@ footer .social {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  header .ingres {
+  header .leadrow {
     margin-top: 30px;
   }
   header .logo,
