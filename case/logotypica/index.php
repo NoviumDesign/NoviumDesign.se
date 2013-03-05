@@ -47,10 +47,10 @@
 							<div class="span8">
 								<section>
 									<p>
-										Logotypica<sup>®</sup> är vårt showroom för de logotyper, symboler, märken och andra detaljer vi skapar. Detaljer som får varumärken att synas i mängden och bli valda. 
+										Logotypica hjälper varumärken att bli valda genom design som framhäver det äkta. Verktygen är symboler, logotyper och olika grafiska element. 
 									</p>
 									<p>
-										Besök oss på <a href="http://logotypica.se">www.logotypica.se</a>.
+										Besök sajten på <a href="http://logotypica.se">www.logotypica.se</a>.
 									</p>
 								</section>
 							</div>

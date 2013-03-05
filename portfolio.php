@@ -66,7 +66,7 @@
 						<div>
 							<div class="upper">
 								<h5>Logotypica</h5>
-								<p>Logotypica<sup>®</sup> är vårt showroom för de logotyper, symboler, märken och andra detaljer vi skapar.
+								<p>Logotypica skapar symboler, logotyper och olika grafiska element.
 								</p>
 							</div>
 							<div class="lower"><a href="/case/logotypica">></a></div>
