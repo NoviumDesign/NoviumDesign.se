@@ -50,7 +50,7 @@
 				</div>
 				<div class="row">
 					<div class="span8 kimbiacamp">
-						<img src="img/frontgrid/kimbiacamp.jpg" alt="Färgtema till KimbiaCamp">
+						<a href="/case/kimbiacamp"><img src="img/frontgrid/kimbiacamp.jpg" alt="Färgtema till KimbiaCamp"></a>
 					</div>
 					<div class="span4">
 						<img src="img/frontgrid/design-as-tool.png" alt="Vi skapar engagemang med design som verktyg">

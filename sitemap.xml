@@ -24,5 +24,13 @@
 		<loc>http://noviumdesign.se/case/klostermark/</loc>
 		<changefreq>monthly</changefreq>
 	</url>
+	<url>
+		<loc>http://noviumdesign.se/case/logotypica/</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://noviumdesign.se/case/kimbiacamp/</loc>
+		<changefreq>monthly</changefreq>
+	</url>
 
 </urlset>

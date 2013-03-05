@@ -8,17 +8,17 @@
 		<link rel="dns-prefetch" href="http://ajax.googleapis.com" />
 		<link rel="dns-prefetch" href="http://www.google-analytics.com/ga.js" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Novium Designbyrå - Ida Lundberg</title>
+		<title>Novium Designbyrå - Logotypica</title>
 
-		<meta name="description" content="Webbdesign för Ida Lundberg.">
+		<meta name="description" content="Grafisk identitet och webbsida åt Logotypica.">
 		<meta name="author" content="">
-		<meta name="keywords" content="Designbyrå, Novium Designbyrå, Novium Design, Webbdesign, Ida Lundberg, Serverdrift">
+		<meta name="keywords" content="Designbyrå, Novium Designbyrå, Novium Design, Logotype, Logotyp, Logotypica">
 
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="sitemap" type="application/xml" title="Sitemap" href="http://noviumdesign.se/sitemap.xml">
 
 		<meta property="og:title" content="Novium Designbyrå">
-		<meta property="og:description" content="Webbdesign för Ida Lundberg.">
+		<meta property="og:description" content="Grafisk identitet och webbsida åt Logotypica.">
 		<meta property="og:url" content="http://noviumdesign.se">
 
 		<!--[if lt IE 9]>
@@ -31,15 +31,15 @@
 			<div class="case">
 				<div class="row">
 					<div class="span12">
-						<img src="img/master.png" alt="Interapp logo" class="logo">
+						<img src="img/master.png" alt="Logotypicas logo" class="logo">
 					</div>
 				</div>
 				<div class="row">
 					<div class="span4 desc">
-						<h1>Interapp</h1>
+						<h1><a href="http://logotypica.se">Logotypica</a></h1>
 						<ul class="unstyled">
-							<li>Redesign</li>
-							<li>Serverdrift</li>
+							<li>Branding</li>
+							<li>Webbdesign</li>
 						</ul>
 					</div>
 					<div class="span8">
@@ -47,21 +47,17 @@
 							<div class="span8">
 								<section>
 									<p>
-										Ida Lundberg är ett italienskt high fashion brand och till lika namnet på designern. Vi hjälpte Ida att se över sin webbsida.
+										Logotypica<sup>®</sup> är vårt showroom för de logotyper, symboler, märken och andra detaljer vi skapar. Detaljer som får varumärken att synas i mängden och bli valda. 
+									</p>
+									<p>
+										Besök oss på <a href="http://logotypica.se">www.logotypica.se</a>.
 									</p>
 								</section>
 							</div>
 							<div class="span8">
-								<img src="img/concept.png" alt="Interapps koncept">
-								<p class="imgtext">En flödande karaktär som symboliserar moderna applikationer.</p>
+								<img src="img/site.jpg" alt="Webbsida">
 							</div>
-							<div class="span8">
-								<img src="img/flowing-characters.png" alt="Interapps flöde i typografin">
-							</div>
-							<div class="span8">
-								<img src="img/finetuning.png" alt="Interapps renaodlade bokstäver">
-								<p class="imgtext">Bokstävers olika former har renodlats för ett samlat intryck.</p>
-							</div>
+
 						</div>
 
 					</div>

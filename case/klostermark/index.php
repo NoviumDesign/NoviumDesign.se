@@ -36,7 +36,7 @@
 				</div>
 				<div class="row">
 					<div class="span4 desc">
-						<h1>Klostermark</h1>
+						<h1><a href="http://klostermark.se">Klostermark</a></h1>
 						<ul class="unstyled">
 							<li>Webbutveckling</li>
 							<li>Servermiljö</li>
@@ -52,6 +52,9 @@
 									</p>
 									<p>
 										När du tänker på en webbsida tänker du förmodligen på det visuella? Det gör vi också. Till en början. När vi var klara med webbsidan kände vi att det fanns så mycket mer att ge. Internet handlar om en användarupplevelse, en känsla av responsivitet. Vi gick tillbaka till ritbordet och optimerade varenda fil för att öka prestandan. Vi strukturerade om Klostermarks servermiljö och skickade ut materialet i molnet för att komma närmare användaren. Efter vår optimering kunde vi konstatera att vi lyckats skapa en användarupplevelse så responsiv och snabb att känslan av väntetider helt eliminerats. Allt för upplevelsens skull.
+									</p>
+									<p>
+										Besök sajten på <a href="http://klostermark.se">www.klostermark.se</a>
 									</p>
 								</section>
 							</div>

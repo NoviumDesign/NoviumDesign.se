@@ -65,6 +65,39 @@
 					<div class="span3 desc visible-desktop">
 						<div>
 							<div class="upper">
+								<h5>Logotypica</h5>
+								<p>Logotypica<sup>®</sup> är vårt showroom för de logotyper, symboler, märken och andra detaljer vi skapar.
+								</p>
+							</div>
+							<div class="lower"><a href="/case/logotypica">></a></div>
+						</div>
+					</div>
+					<div class="span9 teaser">
+						<a href="/case/logotypica"><img src="img/portfolio/preview/logotypica.png"></a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span3 desc visible-desktop">
+						<div>
+							<div class="upper">
+								<h5>Kimbiacamp</h5>
+								<p>
+									Vårt uppdrag: Ta fram känslan av den Kenyanska sanden. Läs om hur vi gick tillväga.
+								</p>
+							</div>
+							<div class="lower"><a href="/case/kimbiacamp">></a></div>
+						</div>
+					</div>
+					<div class="span9 teaser">
+						<a href="/case/kimbiacamp"><img src="img/portfolio/preview/kimbiacamp.png"></a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span3 desc visible-desktop">
+						<div>
+							<div class="upper">
 								<h5>Klostermark</h5>
 								<p>Klostermark Accounting är en nytänkande och spänannde aktör inom ekonomiska tjänster för företag.</p>
 							</div>

@@ -58,9 +58,6 @@
 								<img src="img/package-1.jpg" alt="Förpackningsdesign">
 							</div>
 							<div class="span8">
-								<img src="img/logo-design.png" alt="Skapandet av Resvilles logotype">
-							</div>
-							<div class="span8">
 								<img src="img/package-2.jpg" alt="Förpackningsdesign">
 							</div>
 						</div>
