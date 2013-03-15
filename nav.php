@@ -20,9 +20,9 @@
 			<div class="span5 visible-desktop">
 				<h2>
 					<ul class="unstyled activities">
-						<li>Strategi & koncept</li>
+						<li>Strategi</li>
 						<li>Branding</li>
-						<li>Webbdesign</li>
+						<li>Webb</li>
 					</ul>
 				</h2>
 			</div>
