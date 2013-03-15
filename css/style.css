@@ -5950,7 +5950,7 @@ h4 {
 h5 {
   line-height: 23px;
   font-size: 18px;
-  font-weight: normal;
+  font-weight: bold;
   margin: 0 0 10px 0;
 }
 a {
@@ -6059,6 +6059,12 @@ header nav li a {
 .casestudy-page .case .imgtext {
   margin-top: 8px;
 }
+.strategy-page h5 {
+  margin: 0;
+}
+.strategy-page .offer {
+  margin: 15px 0 15px 0;
+}
 footer {
   margin-top: 20px;
 }
@@ -6079,15 +6085,18 @@ footer .copy {
 footer .social {
   margin-left: 35px;
 }
+footer h5 {
+  font-weight: normal;
+}
 /* Large desktop */
 @media (min-width: 1200px) {
   header .navigation {
-    width: 460px;
-    margin-left: 140px;
+    width: 570px;
+    margin-left: 130px;
   }
   header .ingres {
-    width: 460px;
-    margin-left: 140px;
+    width: 570px;
+    margin-left: 130px;
   }
   .contact-page .employers .span4 {
     width: 370px;
@@ -6113,6 +6122,9 @@ footer .social {
     width: 840px;
     height: 304px;
   }
+  .strategy-page .offset1 {
+    margin-left: 230px;
+  }
 }
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
@@ -6121,7 +6133,6 @@ footer .social {
   }
   header .ingres {
     width: 476px;
-    margin-left: 268px;
   }
   header .logo {
     width: 228px;
