@@ -8,6 +8,7 @@
 		<link rel="dns-prefetch" href="http://ajax.googleapis.com" />
 		<link rel="dns-prefetch" href="http://www.google-analytics.com/ga.js" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width">
 		<title>Novium Designbyrå - Strategi</title>
 
 		<meta name="description" content="Läs om hur vi arbetar med att bygga varumärken.">

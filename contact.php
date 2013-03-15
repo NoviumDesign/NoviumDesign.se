@@ -8,6 +8,7 @@
 		<link rel="dns-prefetch" href="http://ajax.googleapis.com" />
 		<link rel="dns-prefetch" href="http://www.google-analytics.com/ga.js" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width">
 		<title>Novium Designbyrå - Kontakt</title>
 
 		<meta name="description" content="Kontakta oss på Novium Designbyrå.">
@@ -35,27 +36,13 @@
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
-								<img src="img/team/anton.png" alt="Anton Kjörck Lindén">
+								<img src="img/team/stefan.png" alt="Stefan Edwall">
 							</div>
 							<div class="span2">
 								<p>
-									<span itemprop="employee"><a href="mailto:anton@noviumdesign.se">Anton Kjörck Lindén</a></span>
-									<span itemprop="jobTitle">Marknadsansvarig</span>
-									<span itemprop="telephone">073-534 50 22</span>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="span4">
-						<div class="row employee" itemscope itemtype="http://schema.org/Person">
-							<div class="span2 hidden-phone">
-								<img src="img/team/emil.png" alt="Emil Blomquist">
-							</div>
-							<div class="span2">
-								<p>
-									<span itemprop="employee"><a href="mailto:emil@noviumdesign.se">Emil Blomquist</a></span>
-									<span itemprop="jobTitle">Utvecklare</span>
-									<span itemprop="telephone">070-491 02 03</span>
+									<span itemprop="employee"><a href="mailto:stefan@noviumdesign.se">Stefan Edwall</a></span>
+									<span itemprop="jobTitle">Projektledare & Affärsutvecklare</span>
+									<span itemprop="telephone">070-676 97 20</span>
 								</p>
 							</div>
 						</div>
@@ -74,7 +61,6 @@
 							</div>
 						</div>
 					</div>
-				
 					<div class="span4">
 						<div class="row employee" itemscope itemtype="http://schema.org/Person">
 							<div class="span2 hidden-phone">
@@ -85,6 +71,34 @@
 									<span itemprop="employee"><a href="mailto:ida@noviumdesign.se">Ida Gyulai</a></span>
 									<span itemprop="jobTitle">Grafisk formgivare</span>
 									<span itemprop="telephone">076-837 91 91</span>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="span4">
+						<div class="row employee" itemscope itemtype="http://schema.org/Person">
+							<div class="span2 hidden-phone">
+								<img src="img/team/anton.png" alt="Anton Kjörck Lindén">
+							</div>
+							<div class="span2">
+								<p>
+									<span itemprop="employee"><a href="mailto:anton@noviumdesign.se">Anton Kjörck Lindén</a></span>
+									<span itemprop="jobTitle">Gränssnittsutvecklare</span>
+									<span itemprop="telephone">073-534 50 22</span>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="span4">
+						<div class="row employee" itemscope itemtype="http://schema.org/Person">
+							<div class="span2 hidden-phone">
+								<img src="img/team/emil.png" alt="Emil Blomquist">
+							</div>
+							<div class="span2">
+								<p>
+									<span itemprop="employee"><a href="mailto:emil@noviumdesign.se">Emil Blomquist</a></span>
+									<span itemprop="jobTitle">Utvecklare</span>
+									<span itemprop="telephone">070-491 02 03</span>
 								</p>
 							</div>
 						</div>

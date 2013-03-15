@@ -20,8 +20,8 @@
 			<div class="span5 visible-desktop">
 				<h2>
 					<ul class="unstyled activities">
+						<li>Strategi & koncept</li>
 						<li>Branding</li>
-						<li>Förpackningsdesign</li>
 						<li>Webbdesign</li>
 					</ul>
 				</h2>

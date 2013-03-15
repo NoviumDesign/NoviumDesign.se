@@ -8,6 +8,7 @@
 		<link rel="dns-prefetch" href="http://ajax.googleapis.com" />
 		<link rel="dns-prefetch" href="http://www.google-analytics.com/ga.js" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width">w
 		<title>Novium Designbyrå - Klostermark Accounting</title>
 
 		<meta name="description" content="Webbsida för Klostermark Accounting.">
