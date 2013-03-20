@@ -99,6 +99,23 @@
 					<div class="span3 desc visible-desktop">
 						<div>
 							<div class="upper">
+								<h5>Logopederna</h5>
+								<p>
+									Webbdesign och branding för Logopederna i Stockholm.
+								</p>
+							</div>
+							<div class="lower"><a href="/case/logopederna">></a></div>
+						</div>
+					</div>
+					<div class="span9 teaser">
+						<a href="/case/logopederna"><img src="img/portfolio/preview/logopederna.png"></a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="span3 desc visible-desktop">
+						<div>
+							<div class="upper">
 								<h5>Klostermark</h5>
 								<p>Klostermark Accounting är en nytänkande och spänannde aktör inom ekonomiska tjänster för företag.</p>
 							</div>
