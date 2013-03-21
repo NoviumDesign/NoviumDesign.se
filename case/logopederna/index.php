@@ -48,7 +48,7 @@
 							<div class="span8">
 								<section>
 									<p>
-										Logopederna är en av de största aktörerna inom logopedi i Stockholms Läns Landsting. Med en varmare känsla hjälper Logopederna hjälper personer som tycker det är svårt med att läsa, skriva, räkna eller tala till att få det lite enklare i vardagen. Novium ser till att Logopederna blir det självklara valet genom en distinkt grafisk profil som förstärker erbjudandet.
+										Logopederna är en av de största aktörerna inom logopedi i Stockholms Läns Landsting. Med en varmare känsla hjälper Logopederna personer som tycker det är svårt med att läsa, skriva, räkna eller tala till att få det lite enklare i vardagen. Novium ser till att Logopederna blir det självklara valet genom en distinkt grafisk profil som förstärker erbjudandet.
 									</p>
 									<p>
 										<a href="http://logopederna.se" target="_blank">Besök Logopederna.se</a>
