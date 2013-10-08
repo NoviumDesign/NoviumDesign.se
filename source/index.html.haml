@@ -1,9 +1,37 @@
 ---
-title: Middleman is Watching
-body_class: index
+body_class: home
 ---
 
-.welcome
-  %h1 Middleman is Watching
-  %p.doc
-    = link_to 'Read Online Documentation', 'http://middlemanapp.com/', title: 'Read Online Documentation', target: '_blank'
+.container
+  .portfolio
+    .row.resville
+      .span7
+        %a{:href => "/case/resville"}
+          %img{:alt => "Förpackningsdesign till Resville Mathantverk", :src => "img/frontgrid/resville/packagedesign.jpg"}
+      .span5
+        %a{:href => "/case/resville"}
+          %img{:alt => "Logotype till Resville Mathantverk", :src => "img/frontgrid/resville/logo.png"}
+    .row
+      .span4
+        %img{:alt => "Med teknik och estetik hjälper vi varumärken att synas i mängden och bli valda.", :src => "img/frontgrid/estetic.png"}
+      .span8.interapp
+        %div
+          %a{:href => "/case/interapp"}
+            %img{:alt => "Logotyp till Interapp", :src => "img/frontgrid/interapp.png"}
+    .row
+      .span8.kimbiacamp
+        %a{:href => "/case/kimbiacamp"}
+          %img{:alt => "Färgtema till KimbiaCamp", :src => "img/frontgrid/kimbiacamp.jpg"}
+      .span4
+        %img{:alt => "Vi skapar engagemang med design som verktyg", :src => "img/frontgrid/design-as-tool.png"}
+    .row
+      .span5.klostermark
+        %div
+          %a{:href => "/case/klostermark"}
+            %img{:alt => "Webbsida till Klostermark", :src => "img/frontgrid/klostermark.png"}
+      .span7
+        %img{:alt => "Vår arbetsprocess", :src => "img/frontgrid/process.png"}
+    .row
+      .span12.lundberg
+        %a{:href => "http://idalundberg.com"}
+          %img{:alt => "Ida Lundberg", :src => "img/frontgrid/idalundberg.jpg"}

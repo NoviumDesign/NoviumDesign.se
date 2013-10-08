@@ -1,0 +1,28 @@
+%header
+  .container
+    .row
+      .span5.logo
+        %a{:href => "/"}
+          %img{:alt => "Novium Designbyrå", :src => "/img/logo.png"}
+      .span7.navigation
+        %nav.clearfix
+          %ul.nav
+            %li
+              = link_to 'Start', '/index.html'
+            %li
+              = link_to 'Portfolio', '/portfolio.html'
+            %li
+              = link_to 'Erbjudande', '/erbjudande.html'
+            %li.visible-desktop
+              = link_to 'Kontakt', '/kontakt.html'
+            %li.hidden-desktop
+              = link_to 'Kontakt', '/kontakt.html'
+    .row.leadrow
+      .span5.visible-desktop  
+        %h2
+          %ul.unstyled.activities
+            %li Strategi
+            %li Branding
+            %li Webb
+      .span7.ingres
+        %h2 Novium är en varumärkes- och designbyrå. Med stategi, teknik och branding hjälper vi varumärken att skilja sig från mängden och bli valda.

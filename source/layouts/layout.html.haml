@@ -8,11 +8,25 @@
 %html{lang: 'en', class: 'no-js'}
   /<![endif]
   %head
-    %title #{data.page.title || "The Middleman"}
+    %link{:href => "http://ajax.googleapis.com", :rel => "dns-prefetch"}
+    %link{:href => "http://www.google-analytics.com/ga.js", :rel => "dns-prefetch"}
+    %title #{data.page.title || "Novium Designbyrå"}
+
+    -# Meta
     %meta(http-equiv="content-type" content="text/html" charset="utf-8")
-    %meta(http-equiv="x-ua-compatible" content="ie=edge,chrome=1")
-    %meta(name="description" content="")
+    %meta(http-equiv="X-UA-Compatible" content="IE=edge,chrome=1")
+    %meta{:content => data.page.description || 'Novium är en designbyrå. Med teknik och estetik hjälper vi varumärken att synas i mängden och bli valda.', :name => "description"}
     %meta(name="author" content="")
+    %meta{:content => data.page.keywords || 'Designbyrå, Novium Designbyrå, Novium Design, Förpackningsdesign, Logotype, Logotyp', :name => "keywords"}
+    %link{:href => "sitemap.xml", :rel => "sitemap", :title => "Sitemap", :type => "application/xml"}
+    %link{:href => "http://plus.google.com/103701483992506952153", :rel => "publisher"}
+
+    -# Open Graph stuff
+    %meta{:content => data.page.title || 'Novium Designbyrå', :property => "og:title"}
+    %meta{:content => data.page.description || 'Novium är en designbyrå. Med teknik och estetik hjälper vi varumärken att synas i mängden och bli valda.', :property => "og:description"}
+    %meta{:content => "http://noviumdesign.se", :property => "og:url"}
+    %meta{:content => "http://noviumdesign.se/img/logo.png", :property => "og:image"}
+
     
     -# Standard viewport tag to set the viewport to the device's width, 
     -# Android 2.3 devices need this so 100% width works properly and 
@@ -23,18 +37,18 @@
     %meta(name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)")
     %meta(name='apple-mobile-web-app-capable' content='yes')
     %meta(name='apple-mobile-web-app-status-bar-style' content='translucent-black')
-
-    -# App Icons
-    %link(rel="shortcut icon" href="/images/favicon.ico")
-    %link(rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png")
-    %link(rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/apple-touch-icon-57x57-precomposed.png")
-    %link(rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png")
-    %link(rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png")
     
     -# Stylesheets
     = stylesheet_link_tag 'application'
-  %body{class: current_page.data.body_class || 'page'}
+
+    -# Baseline developer tool.
+    -# %link{:href => "http://basehold.it/24", :rel => "stylesheet"}
+
+  %body{:class => current_page.data.body_class || 'page'}
+    = partial 'header'
     = yield
+    = partial 'footer'
+    
     -# Javascripts
     = javascript_include_tag '//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js'
     = javascript_include_tag '//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js'
@@ -43,7 +57,7 @@
     - if build?
       -# Google Analytics
       :javascript
-        var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+        var _gaq=[['_setAccount','UA-37055950-1'],['_trackPageview']];
         (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
         g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
         s.parentNode.insertBefore(g,s)}(document,'script'));
